@@ -1,0 +1,68 @@
+{
+  "since": "2026-09-24",
+  "generated_at": "2026-09-24T16:23:58.154502",
+  "account": "VK Реклама · кабинет 30085743",
+  "days": [
+    {
+      "date": "2026-09-24",
+      "shows": 0,
+      "clicks": 0,
+      "spent": 0.0,
+      "results": 0
+    }
+  ],
+  "plans": [
+    {
+      "id": 32688952,
+      "name": "RAO | B2C | Сообщения",
+      "status": "active",
+      "budget_day": 1000.0,
+      "shows": 0,
+      "clicks": 0,
+      "spent": 0.0,
+      "results": 0
+    }
+  ],
+  "groups": [
+    {
+      "id": 156583860,
+      "plan_id": 32688952,
+      "name": "01 | Квадро + Багги | Search",
+      "status": "active",
+      "shows": 0,
+      "clicks": 0,
+      "spent": 0.0,
+      "results": 0
+    },
+    {
+      "id": 156592457,
+      "plan_id": 32688952,
+      "name": "02 | Эндуро + Питбайки | Search",
+      "status": "active",
+      "shows": 0,
+      "clicks": 0,
+      "spent": 0.0,
+      "results": 0
+    },
+    {
+      "id": 156594424,
+      "plan_id": 32688952,
+      "name": "03 | Семья + Дети | Search",
+      "status": "active",
+      "shows": 0,
+      "clicks": 0,
+      "spent": 0.0,
+      "results": 0
+    },
+    {
+      "id": 156596236,
+      "plan_id": 32688952,
+      "name": "04 | Досуг + Подарок | Search",
+      "status": "active",
+      "shows": 0,
+      "clicks": 0,
+      "spent": 0.0,
+      "results": 0
+    }
+  ]
+}
