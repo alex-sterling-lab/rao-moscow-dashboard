@@ -38,9 +38,9 @@
   }
   ::selection { background: var(--ink); color: var(--bg); }
 
-  .wide { max-width: 1680px; margin: 0 auto; padding: 0 28px; }
+  .wide { max-width: 1400px; margin: 0 auto; padding: 0 28px; }
   /* Таблицы шире остального: текст читается в колонке, цифры — во всю ширину экрана */
-  .wide.full { max-width: min(2000px, calc(100vw - 40px)); padding: 0 20px; }
+  .wide.full { max-width: min(1500px, calc(100vw - 40px)); padding: 0 20px; }
 
   .topbar {
     border-bottom: 1px solid var(--line);
@@ -163,14 +163,14 @@
   .week-summary { flex: 1; text-align: right; font-size: 13px; color: var(--muted); font-family: 'JetBrains Mono', monospace; }
   .week-summary b { color: var(--ink); font-weight: 500; }
 
-  table.data { width: 100%; border-collapse: collapse; font-size: 12px; font-family: 'JetBrains Mono', monospace; }
+  table.data { width: 100%; border-collapse: collapse; font-size: 11.5px; font-family: 'JetBrains Mono', monospace; }
   table.data th {
     text-align: right;
-    padding: 12px 8px 8px;
+    padding: 12px 5px 8px;
     font-family: 'Inter', sans-serif;
-    font-size: 10px;
+    font-size: 9.5px;
     font-weight: 600;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color: var(--muted);
     border-bottom: 1px solid var(--line);
@@ -180,7 +180,7 @@
   }
   table.data th.left, table.data td.left { text-align: left; }
   table.data th.first { padding-left: 20px; }
-  table.data td { padding: 8px 8px; border-bottom: 1px solid var(--line); text-align: right; white-space: nowrap; color: var(--ink-2); }
+  table.data td { padding: 8px 5px; border-bottom: 1px solid var(--line); text-align: right; white-space: nowrap; color: var(--ink-2); }
   table.data td.first { padding-left: 20px; }
   table.data tr.platform-header td {
     background: var(--bg-soft);
@@ -203,7 +203,7 @@
   table.data td.na { color: #b8a58a; font-style: italic; font-family: 'Inter'; font-size: 11px; }
 
   table.data input.manual-input {
-    width: 62px;
+    width: 50px;
     padding: 3px 6px;
     text-align: right;
     font-family: 'JetBrains Mono', monospace;
@@ -487,8 +487,8 @@ const COLS = 21;
 function row(c, cls, platformCell, label, periodKey) {
   const cn = contacts(c);
   return `<tr class="${cls}">
-    <td class="left first">${platformCell}</td>
-    <td class="left" style="min-width:220px;max-width:320px;white-space:normal;">${label}</td>
+    <td class="left first" style="white-space:normal;">${platformCell}</td>
+    <td class="left" style="min-width:170px;max-width:240px;white-space:normal;">${label}</td>
     <td>${fmtInt(c.impressions)}</td>
     <td>${fmtInt(c.clicks)}</td>
     <td>${fmtPct(c.ctr_pct)}</td>
