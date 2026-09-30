@@ -1,6 +1,6 @@
 {
   "since": "2026-09-24",
-  "generated_at": "2026-09-29T08:30:13.212518",
+  "generated_at": "2026-09-30T08:30:11.832300",
   "account": "VK Реклама · кабинет 30085743",
   "days": [
     {
@@ -40,10 +40,17 @@
     },
     {
       "date": "2026-09-29",
-      "shows": 771,
-      "clicks": 2,
-      "spent": 224.96,
-      "results": 1
+      "shows": 4062,
+      "clicks": 12,
+      "spent": 1152.49,
+      "results": 3
+    },
+    {
+      "date": "2026-09-30",
+      "shows": 723,
+      "clicks": 6,
+      "spent": 209.07999999999998,
+      "results": 2
     }
   ],
   "plans": [
@@ -52,19 +59,19 @@
       "name": "RAO | B2C | Сообщения",
       "status": "active",
       "budget_day": 1000.0,
-      "shows": 19850,
-      "clicks": 97,
-      "spent": 4807.41,
-      "results": 8
+      "shows": 23506,
+      "clicks": 113,
+      "spent": 5799.58,
+      "results": 12
     },
     {
       "id": 32836488,
       "name": "Сообщества | RAO | B2C | Сообщения",
       "status": "active",
       "budget_day": 700.0,
-      "shows": 1228,
+      "shows": 1586,
       "clicks": 3,
-      "spent": 450.71,
+      "spent": 595.14,
       "results": 0
     }
   ],
@@ -74,10 +81,10 @@
       "plan_id": 32688952,
       "name": "01 | Квадро + Багги | Search",
       "status": "active",
-      "shows": 2978,
-      "clicks": 20,
-      "spent": 845.18,
-      "results": 2,
+      "shows": 4250,
+      "clicks": 28,
+      "spent": 1202.88,
+      "results": 5,
       "days": [
         {
           "date": "2026-09-25",
@@ -109,10 +116,17 @@
         },
         {
           "date": "2026-09-29",
-          "shows": 110,
-          "clicks": 0,
-          "spent": 24.17,
-          "results": 0
+          "shows": 933,
+          "clicks": 3,
+          "spent": 251.49,
+          "results": 1
+        },
+        {
+          "date": "2026-09-30",
+          "shows": 449,
+          "clicks": 5,
+          "spent": 130.38,
+          "results": 2
         }
       ]
     },
@@ -121,9 +135,9 @@
       "plan_id": 32688952,
       "name": "02 | Эндуро + Питбайки | Search",
       "status": "active",
-      "shows": 1132,
+      "shows": 1204,
       "clicks": 2,
-      "spent": 320.35,
+      "spent": 329.68,
       "results": 0,
       "days": [
         {
@@ -156,9 +170,16 @@
         },
         {
           "date": "2026-09-29",
-          "shows": 25,
+          "shows": 88,
           "clicks": 0,
-          "spent": 3.07,
+          "spent": 10.74,
+          "results": 0
+        },
+        {
+          "date": "2026-09-30",
+          "shows": 9,
+          "clicks": 0,
+          "spent": 1.66,
           "results": 0
         }
       ]
@@ -168,10 +189,10 @@
       "plan_id": 32688952,
       "name": "03 | Семья + Дети | Search",
       "status": "active",
-      "shows": 10813,
-      "clicks": 57,
-      "spent": 3021.73,
-      "results": 6,
+      "shows": 12867,
+      "clicks": 64,
+      "spent": 3630.09,
+      "results": 7,
       "days": [
         {
           "date": "2026-09-24",
@@ -210,10 +231,17 @@
         },
         {
           "date": "2026-09-29",
-          "shows": 511,
-          "clicks": 2,
-          "spent": 158.39,
-          "results": 1
+          "shows": 2379,
+          "clicks": 8,
+          "spent": 709.72,
+          "results": 2
+        },
+        {
+          "date": "2026-09-30",
+          "shows": 186,
+          "clicks": 1,
+          "spent": 57.04,
+          "results": 0
         }
       ]
     },
@@ -222,9 +250,9 @@
       "plan_id": 32688952,
       "name": "04 | Досуг + Подарок | Search",
       "status": "active",
-      "shows": 4927,
-      "clicks": 18,
-      "spent": 620.14,
+      "shows": 5185,
+      "clicks": 19,
+      "spent": 636.93,
       "results": 0,
       "days": [
         {
@@ -264,9 +292,16 @@
         },
         {
           "date": "2026-09-29",
-          "shows": 55,
+          "shows": 298,
+          "clicks": 1,
+          "spent": 28.06,
+          "results": 0
+        },
+        {
+          "date": "2026-09-30",
+          "shows": 15,
           "clicks": 0,
-          "spent": 11.83,
+          "spent": 0.56,
           "results": 0
         }
       ]
@@ -276,9 +311,9 @@
       "plan_id": 32836488,
       "name": "01 | Квадро + Багги | Search | Сообщества",
       "status": "active",
-      "shows": 261,
+      "shows": 329,
       "clicks": 0,
-      "spent": 84.09,
+      "spent": 102.93,
       "results": 0,
       "days": [
         {
@@ -311,9 +346,16 @@
         },
         {
           "date": "2026-09-29",
-          "shows": 9,
+          "shows": 57,
           "clicks": 0,
-          "spent": 2.66,
+          "spent": 17.53,
+          "results": 0
+        },
+        {
+          "date": "2026-09-30",
+          "shows": 20,
+          "clicks": 0,
+          "spent": 3.97,
           "results": 0
         }
       ]
@@ -323,9 +365,9 @@
       "plan_id": 32836488,
       "name": "02 | Эндуро + Питбайки | Сообщества",
       "status": "active",
-      "shows": 344,
+      "shows": 452,
       "clicks": 1,
-      "spent": 139.94,
+      "spent": 192.97,
       "results": 0,
       "days": [
         {
@@ -358,9 +400,16 @@
         },
         {
           "date": "2026-09-29",
-          "shows": 19,
+          "shows": 118,
           "clicks": 0,
-          "spent": 8.0,
+          "spent": 58.46,
+          "results": 0
+        },
+        {
+          "date": "2026-09-30",
+          "shows": 9,
+          "clicks": 0,
+          "spent": 2.57,
           "results": 0
         }
       ]
@@ -370,9 +419,9 @@
       "plan_id": 32836488,
       "name": "03 | Семья + Дети | Search | Сообщества",
       "status": "active",
-      "shows": 77,
+      "shows": 126,
       "clicks": 0,
-      "spent": 19.39,
+      "spent": 33.75,
       "results": 0,
       "days": [
         {
@@ -398,9 +447,9 @@
         },
         {
           "date": "2026-09-29",
-          "shows": 9,
+          "shows": 58,
           "clicks": 0,
-          "spent": 2.12,
+          "spent": 16.48,
           "results": 0
         }
       ]
@@ -410,9 +459,9 @@
       "plan_id": 32836488,
       "name": "Копия 04 | Досуг + Подарок | Search  | Сообщества",
       "status": "active",
-      "shows": 546,
+      "shows": 679,
       "clicks": 2,
-      "spent": 207.28,
+      "spent": 265.5,
       "results": 0,
       "days": [
         {
@@ -445,9 +494,16 @@
         },
         {
           "date": "2026-09-29",
-          "shows": 33,
+          "shows": 131,
           "clicks": 0,
-          "spent": 14.72,
+          "spent": 60.03,
+          "results": 0
+        },
+        {
+          "date": "2026-09-30",
+          "shows": 35,
+          "clicks": 0,
+          "spent": 12.9,
           "results": 0
         }
       ]
