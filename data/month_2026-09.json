@@ -15,7 +15,7 @@
       "name": "Яндекс Директ",
       "campaigns": [
         {
-          "campaign": "B2C (Поиск)",
+          "campaign": "B2C. Поиск",
           "id": "713862177",
           "type": "TEXT_CAMPAIGN",
           "impressions": 6661,
@@ -38,7 +38,7 @@
           "cost_per_lead_rub": 3556.8
         },
         {
-          "campaign": "B2C",
+          "campaign": "B2C. РСЯ",
           "id": "701074957",
           "type": "TEXT_CAMPAIGN",
           "impressions": 15823,
@@ -61,7 +61,7 @@
           "cost_per_lead_rub": 6613.44
         },
         {
-          "campaign": "Корпоратив rao.moscow/corporate РСЯ",
+          "campaign": "Корпоративы. РСЯ",
           "id": "709928655",
           "type": "TEXT_CAMPAIGN",
           "impressions": 2653,
@@ -84,7 +84,7 @@
           "cost_per_lead_rub": null
         },
         {
-          "campaign": "Корпоратив rao.moscow/corporate ПОИСК",
+          "campaign": "Корпоративы. Поиск",
           "id": "710933808",
           "type": "TEXT_CAMPAIGN",
           "impressions": 310,

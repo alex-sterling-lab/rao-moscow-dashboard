@@ -1,6 +1,6 @@
 {
   "since": "2026-09-24",
-  "generated_at": "2026-10-08T08:32:13.506328",
+  "generated_at": "2026-10-09T08:30:15.172326",
   "account": "VK Реклама · кабинет 30085743",
   "days": [
     {
@@ -103,9 +103,16 @@
     },
     {
       "date": "2026-10-08",
-      "shows": 725,
-      "clicks": 0,
-      "spent": 156.06,
+      "shows": 3455,
+      "clicks": 10,
+      "spent": 800.0,
+      "results": 1
+    },
+    {
+      "date": "2026-10-09",
+      "shows": 496,
+      "clicks": 3,
+      "spent": 116.43,
       "results": 0
     }
   ],
@@ -115,10 +122,10 @@
       "name": "RAO | B2C | Сообщения",
       "status": "active",
       "budget_day": 800.0,
-      "shows": 64412,
-      "clicks": 203,
-      "spent": 14420.34,
-      "results": 19
+      "shows": 67638,
+      "clicks": 216,
+      "spent": 15180.71,
+      "results": 20
     },
     {
       "id": 32836488,
@@ -157,10 +164,10 @@
       "plan_id": 32688952,
       "name": "01 | Квадро + Багги | Search",
       "status": "active",
-      "shows": 25028,
-      "clicks": 80,
-      "spent": 6268.79,
-      "results": 11,
+      "shows": 28254,
+      "clicks": 93,
+      "spent": 7029.16,
+      "results": 12,
       "days": [
         {
           "date": "2026-09-25",
@@ -255,9 +262,16 @@
         },
         {
           "date": "2026-10-08",
-          "shows": 725,
-          "clicks": 0,
-          "spent": 156.06,
+          "shows": 3455,
+          "clicks": 10,
+          "spent": 800.0,
+          "results": 1
+        },
+        {
+          "date": "2026-10-09",
+          "shows": 496,
+          "clicks": 3,
+          "spent": 116.43,
           "results": 0
         }
       ]
