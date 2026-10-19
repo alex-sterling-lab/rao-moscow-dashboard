@@ -1,6 +1,6 @@
 {
   "since": "2026-09-24",
-  "generated_at": "2026-10-10T08:30:12.419273",
+  "generated_at": "2026-10-19T10:08:30.899577",
   "account": "VK Реклама · кабинет 30085743",
   "days": [
     {
@@ -121,6 +121,69 @@
       "clicks": 0,
       "spent": 0.0,
       "results": 0
+    },
+    {
+      "date": "2026-10-11",
+      "shows": 0,
+      "clicks": 0,
+      "spent": 0.0,
+      "results": 0
+    },
+    {
+      "date": "2026-10-12",
+      "shows": 0,
+      "clicks": 0,
+      "spent": 0.0,
+      "results": 0
+    },
+    {
+      "date": "2026-10-13",
+      "shows": 6537,
+      "clicks": 7,
+      "spent": 657.4,
+      "results": 0
+    },
+    {
+      "date": "2026-10-14",
+      "shows": 5352,
+      "clicks": 15,
+      "spent": 900.0,
+      "results": 3
+    },
+    {
+      "date": "2026-10-15",
+      "shows": 4320,
+      "clicks": 4,
+      "spent": 900.0,
+      "results": 0
+    },
+    {
+      "date": "2026-10-16",
+      "shows": 4003,
+      "clicks": 6,
+      "spent": 900.0,
+      "results": 0
+    },
+    {
+      "date": "2026-10-17",
+      "shows": 4172,
+      "clicks": 11,
+      "spent": 900.0,
+      "results": 2
+    },
+    {
+      "date": "2026-10-18",
+      "shows": 4704,
+      "clicks": 15,
+      "spent": 900.0,
+      "results": 1
+    },
+    {
+      "date": "2026-10-19",
+      "shows": 1187,
+      "clicks": 4,
+      "spent": 241.62,
+      "results": 0
     }
   ],
   "plans": [
@@ -163,6 +226,16 @@
       "clicks": 97,
       "spent": 6181.63,
       "results": 4
+    },
+    {
+      "id": 35413412,
+      "name": "все ключ на сообщ",
+      "status": "active",
+      "budget_day": 900.0,
+      "shows": 30275,
+      "clicks": 62,
+      "spent": 5399.02,
+      "results": 6
     }
   ],
   "groups": [
@@ -1032,6 +1105,67 @@
           "shows": 3486,
           "clicks": 7,
           "spent": 171.65,
+          "results": 0
+        }
+      ]
+    },
+    {
+      "id": 160157409,
+      "plan_id": 35413412,
+      "name": "все ключи",
+      "status": "active",
+      "shows": 30275,
+      "clicks": 62,
+      "spent": 5399.02,
+      "results": 6,
+      "days": [
+        {
+          "date": "2026-10-13",
+          "shows": 6537,
+          "clicks": 7,
+          "spent": 657.4,
+          "results": 0
+        },
+        {
+          "date": "2026-10-14",
+          "shows": 5352,
+          "clicks": 15,
+          "spent": 900.0,
+          "results": 3
+        },
+        {
+          "date": "2026-10-15",
+          "shows": 4320,
+          "clicks": 4,
+          "spent": 900.0,
+          "results": 0
+        },
+        {
+          "date": "2026-10-16",
+          "shows": 4003,
+          "clicks": 6,
+          "spent": 900.0,
+          "results": 0
+        },
+        {
+          "date": "2026-10-17",
+          "shows": 4172,
+          "clicks": 11,
+          "spent": 900.0,
+          "results": 2
+        },
+        {
+          "date": "2026-10-18",
+          "shows": 4704,
+          "clicks": 15,
+          "spent": 900.0,
+          "results": 1
+        },
+        {
+          "date": "2026-10-19",
+          "shows": 1187,
+          "clicks": 4,
+          "spent": 241.62,
           "results": 0
         }
       ]
