@@ -1,6 +1,6 @@
 {
   "since": "2026-09-24",
-  "generated_at": "2026-10-20T08:30:25.835867",
+  "generated_at": "2026-10-21T08:30:26.081166",
   "account": "VK Реклама · кабинет 30085743",
   "days": [
     {
@@ -187,9 +187,16 @@
     },
     {
       "date": "2026-10-20",
-      "shows": 511,
-      "clicks": 0,
-      "spent": 125.47,
+      "shows": 5812,
+      "clicks": 17,
+      "spent": 1500.0,
+      "results": 0
+    },
+    {
+      "date": "2026-10-21",
+      "shows": 410,
+      "clicks": 1,
+      "spent": 122.68,
       "results": 0
     }
   ],
@@ -238,10 +245,10 @@
       "id": 35413412,
       "name": "все ключ на сообщ",
       "status": "active",
-      "budget_day": 900.0,
-      "shows": 33893,
-      "clicks": 75,
-      "spent": 6182.87,
+      "budget_day": 1500.0,
+      "shows": 39604,
+      "clicks": 93,
+      "spent": 7680.08,
       "results": 7
     }
   ],
@@ -1121,9 +1128,9 @@
       "plan_id": 35413412,
       "name": "все ключи",
       "status": "active",
-      "shows": 33893,
-      "clicks": 75,
-      "spent": 6182.87,
+      "shows": 39604,
+      "clicks": 93,
+      "spent": 7680.08,
       "results": 7,
       "days": [
         {
@@ -1177,9 +1184,16 @@
         },
         {
           "date": "2026-10-20",
-          "shows": 511,
-          "clicks": 0,
-          "spent": 125.47,
+          "shows": 5812,
+          "clicks": 17,
+          "spent": 1500.0,
+          "results": 0
+        },
+        {
+          "date": "2026-10-21",
+          "shows": 410,
+          "clicks": 1,
+          "spent": 122.68,
           "results": 0
         }
       ]
