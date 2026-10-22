@@ -1,6 +1,6 @@
 {
   "since": "2026-09-24",
-  "generated_at": "2026-10-21T08:30:26.081166",
+  "generated_at": "2026-10-22T08:30:53.628214",
   "account": "VK Реклама · кабинет 30085743",
   "days": [
     {
@@ -194,9 +194,16 @@
     },
     {
       "date": "2026-10-21",
-      "shows": 410,
-      "clicks": 1,
-      "spent": 122.68,
+      "shows": 6119,
+      "clicks": 18,
+      "spent": 1582.17,
+      "results": 3
+    },
+    {
+      "date": "2026-10-22",
+      "shows": 970,
+      "clicks": 0,
+      "spent": 238.41000000000003,
       "results": 0
     }
   ],
@@ -204,12 +211,12 @@
     {
       "id": 32688952,
       "name": "RAO | B2C | Сообщения",
-      "status": "blocked",
-      "budget_day": 800.0,
-      "shows": 68836,
-      "clicks": 221,
-      "spent": 15479.7,
-      "results": 20
+      "status": "active",
+      "budget_day": 700.0,
+      "shows": 71852,
+      "clicks": 230,
+      "spent": 16188.6,
+      "results": 21
     },
     {
       "id": 32836488,
@@ -245,11 +252,11 @@
       "id": 35413412,
       "name": "все ключ на сообщ",
       "status": "active",
-      "budget_day": 1500.0,
-      "shows": 39604,
-      "clicks": 93,
-      "spent": 7680.08,
-      "results": 7
+      "budget_day": 1000.0,
+      "shows": 43267,
+      "clicks": 101,
+      "spent": 8669.1,
+      "results": 9
     }
   ],
   "groups": [
@@ -257,11 +264,11 @@
       "id": 156583860,
       "plan_id": 32688952,
       "name": "01 | Квадро + Багги | Search",
-      "status": "blocked",
-      "shows": 29452,
-      "clicks": 98,
-      "spent": 7328.15,
-      "results": 12,
+      "status": "active",
+      "shows": 31354,
+      "clicks": 103,
+      "spent": 7786.6,
+      "results": 13,
       "days": [
         {
           "date": "2026-09-25",
@@ -367,6 +374,20 @@
           "clicks": 8,
           "spent": 415.42,
           "results": 0
+        },
+        {
+          "date": "2026-10-21",
+          "shows": 1584,
+          "clicks": 5,
+          "spent": 389.05,
+          "results": 1
+        },
+        {
+          "date": "2026-10-22",
+          "shows": 318,
+          "clicks": 0,
+          "spent": 69.4,
+          "results": 0
         }
       ]
     },
@@ -374,10 +395,10 @@
       "id": 156592457,
       "plan_id": 32688952,
       "name": "02 | Эндуро + Питбайки | Search",
-      "status": "blocked",
-      "shows": 1560,
+      "status": "active",
+      "shows": 1604,
       "clicks": 2,
-      "spent": 361.3,
+      "spent": 374.47,
       "results": 0,
       "days": [
         {
@@ -470,6 +491,20 @@
           "clicks": 0,
           "spent": 4.01,
           "results": 0
+        },
+        {
+          "date": "2026-10-21",
+          "shows": 37,
+          "clicks": 0,
+          "spent": 12.44,
+          "results": 0
+        },
+        {
+          "date": "2026-10-22",
+          "shows": 7,
+          "clicks": 0,
+          "spent": 0.73,
+          "results": 0
         }
       ]
     },
@@ -477,10 +512,10 @@
       "id": 156594424,
       "plan_id": 32688952,
       "name": "03 | Семья + Дети | Search",
-      "status": "blocked",
-      "shows": 23364,
-      "clicks": 86,
-      "spent": 6568.12,
+      "status": "active",
+      "shows": 24042,
+      "clicks": 90,
+      "spent": 6774.61,
       "results": 8,
       "days": [
         {
@@ -580,6 +615,20 @@
           "clicks": 0,
           "spent": 67.42,
           "results": 0
+        },
+        {
+          "date": "2026-10-21",
+          "shows": 584,
+          "clicks": 4,
+          "spent": 155.44,
+          "results": 0
+        },
+        {
+          "date": "2026-10-22",
+          "shows": 94,
+          "clicks": 0,
+          "spent": 51.05,
+          "results": 0
         }
       ]
     },
@@ -587,10 +636,10 @@
       "id": 156596236,
       "plan_id": 32688952,
       "name": "04 | Досуг + Подарок | Search",
-      "status": "blocked",
-      "shows": 7474,
+      "status": "active",
+      "shows": 7817,
       "clicks": 23,
-      "spent": 874.56,
+      "spent": 900.99,
       "results": 0,
       "days": [
         {
@@ -689,6 +738,20 @@
           "shows": 91,
           "clicks": 0,
           "spent": 15.11,
+          "results": 0
+        },
+        {
+          "date": "2026-10-21",
+          "shows": 335,
+          "clicks": 0,
+          "spent": 25.58,
+          "results": 0
+        },
+        {
+          "date": "2026-10-22",
+          "shows": 8,
+          "clicks": 0,
+          "spent": 0.85,
           "results": 0
         }
       ]
@@ -1101,10 +1164,10 @@
       "id": 158757800,
       "plan_id": 32688952,
       "name": "Общая карусель",
-      "status": "blocked",
-      "shows": 6986,
+      "status": "active",
+      "shows": 7035,
       "clicks": 12,
-      "spent": 347.57,
+      "spent": 351.94,
       "results": 0,
       "days": [
         {
@@ -1120,6 +1183,20 @@
           "clicks": 7,
           "spent": 171.65,
           "results": 0
+        },
+        {
+          "date": "2026-10-21",
+          "shows": 45,
+          "clicks": 0,
+          "spent": 4.27,
+          "results": 0
+        },
+        {
+          "date": "2026-10-22",
+          "shows": 4,
+          "clicks": 0,
+          "spent": 0.1,
+          "results": 0
         }
       ]
     },
@@ -1128,10 +1205,10 @@
       "plan_id": 35413412,
       "name": "все ключи",
       "status": "active",
-      "shows": 39604,
-      "clicks": 93,
-      "spent": 7680.08,
-      "results": 7,
+      "shows": 43267,
+      "clicks": 101,
+      "spent": 8669.1,
+      "results": 9,
       "days": [
         {
           "date": "2026-10-13",
@@ -1191,9 +1268,16 @@
         },
         {
           "date": "2026-10-21",
-          "shows": 410,
-          "clicks": 1,
-          "spent": 122.68,
+          "shows": 3534,
+          "clicks": 9,
+          "spent": 995.4,
+          "results": 2
+        },
+        {
+          "date": "2026-10-22",
+          "shows": 539,
+          "clicks": 0,
+          "spent": 116.29,
           "results": 0
         }
       ]
