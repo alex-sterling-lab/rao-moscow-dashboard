@@ -1,6 +1,6 @@
 {
   "since": "2026-09-24",
-  "generated_at": "2026-10-24T08:30:25.787562",
+  "generated_at": "2026-10-25T09:30:42.690352",
   "account": "VK Реклама · кабинет 30085743",
   "days": [
     {
@@ -215,9 +215,16 @@
     },
     {
       "date": "2026-10-24",
-      "shows": 740,
-      "clicks": 3,
-      "spent": 147.86,
+      "shows": 8997,
+      "clicks": 23,
+      "spent": 1700.0,
+      "results": 6
+    },
+    {
+      "date": "2026-10-25",
+      "shows": 1609,
+      "clicks": 6,
+      "spent": 304.03000000000003,
       "results": 1
     }
   ],
@@ -267,20 +274,20 @@
       "name": "все ключ на сообщ",
       "status": "active",
       "budget_day": 1000.0,
-      "shows": 50777,
-      "clicks": 115,
-      "spent": 10397.1,
-      "results": 14
+      "shows": 56360,
+      "clicks": 125,
+      "spent": 11475.09,
+      "results": 16
     },
     {
       "id": 37076514,
       "name": "паблики",
       "status": "active",
       "budget_day": 700.0,
-      "shows": 3143,
-      "clicks": 7,
-      "spent": 449.51,
-      "results": 1
+      "shows": 7426,
+      "clicks": 23,
+      "spent": 1227.68,
+      "results": 5
     }
   ],
   "groups": [
@@ -1264,10 +1271,10 @@
       "plan_id": 35413412,
       "name": "все ключи",
       "status": "active",
-      "shows": 50777,
-      "clicks": 115,
-      "spent": 10397.1,
-      "results": 14,
+      "shows": 56360,
+      "clicks": 125,
+      "spent": 11475.09,
+      "results": 16,
       "days": [
         {
           "date": "2026-10-13",
@@ -1348,10 +1355,17 @@
         },
         {
           "date": "2026-10-24",
-          "shows": 397,
-          "clicks": 1,
-          "spent": 103.06,
-          "results": 0
+          "shows": 5056,
+          "clicks": 9,
+          "spent": 1000.0,
+          "results": 1
+        },
+        {
+          "date": "2026-10-25",
+          "shows": 924,
+          "clicks": 2,
+          "spent": 181.05,
+          "results": 1
         }
       ]
     },
@@ -1360,10 +1374,10 @@
       "plan_id": 37076514,
       "name": "Все паблики",
       "status": "active",
-      "shows": 3143,
-      "clicks": 7,
-      "spent": 449.51,
-      "results": 1,
+      "shows": 7426,
+      "clicks": 23,
+      "spent": 1227.68,
+      "results": 5,
       "days": [
         {
           "date": "2026-10-23",
@@ -1374,10 +1388,17 @@
         },
         {
           "date": "2026-10-24",
-          "shows": 343,
-          "clicks": 2,
-          "spent": 44.8,
-          "results": 1
+          "shows": 3941,
+          "clicks": 14,
+          "spent": 700.0,
+          "results": 5
+        },
+        {
+          "date": "2026-10-25",
+          "shows": 685,
+          "clicks": 4,
+          "spent": 122.98,
+          "results": 0
         }
       ]
     }
