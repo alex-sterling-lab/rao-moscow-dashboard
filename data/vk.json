@@ -1,6 +1,6 @@
 {
   "since": "2026-09-24",
-  "generated_at": "2026-10-25T09:30:42.690352",
+  "generated_at": "2026-10-26T09:30:25.606202",
   "account": "VK Реклама · кабинет 30085743",
   "days": [
     {
@@ -222,9 +222,16 @@
     },
     {
       "date": "2026-10-25",
-      "shows": 1609,
+      "shows": 10479,
+      "clicks": 21,
+      "spent": 1700.0,
+      "results": 3
+    },
+    {
+      "date": "2026-10-26",
+      "shows": 2115,
       "clicks": 6,
-      "spent": 304.03000000000003,
+      "spent": 304.26,
       "results": 1
     }
   ],
@@ -274,20 +281,20 @@
       "name": "все ключ на сообщ",
       "status": "active",
       "budget_day": 1000.0,
-      "shows": 56360,
-      "clicks": 125,
-      "spent": 11475.09,
-      "results": 16
+      "shows": 61946,
+      "clicks": 134,
+      "spent": 12467.83,
+      "results": 17
     },
     {
       "id": 37076514,
       "name": "паблики",
       "status": "active",
       "budget_day": 700.0,
-      "shows": 7426,
-      "clicks": 23,
-      "spent": 1227.68,
-      "results": 5
+      "shows": 12825,
+      "clicks": 35,
+      "spent": 1935.19,
+      "results": 7
     }
   ],
   "groups": [
@@ -1271,10 +1278,10 @@
       "plan_id": 35413412,
       "name": "все ключи",
       "status": "active",
-      "shows": 56360,
-      "clicks": 125,
-      "spent": 11475.09,
-      "results": 16,
+      "shows": 61946,
+      "clicks": 134,
+      "spent": 12467.83,
+      "results": 17,
       "days": [
         {
           "date": "2026-10-13",
@@ -1362,10 +1369,17 @@
         },
         {
           "date": "2026-10-25",
-          "shows": 924,
-          "clicks": 2,
-          "spent": 181.05,
-          "results": 1
+          "shows": 5617,
+          "clicks": 7,
+          "spent": 1000.0,
+          "results": 2
+        },
+        {
+          "date": "2026-10-26",
+          "shows": 893,
+          "clicks": 4,
+          "spent": 173.78,
+          "results": 0
         }
       ]
     },
@@ -1374,10 +1388,10 @@
       "plan_id": 37076514,
       "name": "Все паблики",
       "status": "active",
-      "shows": 7426,
-      "clicks": 23,
-      "spent": 1227.68,
-      "results": 5,
+      "shows": 12825,
+      "clicks": 35,
+      "spent": 1935.19,
+      "results": 7,
       "days": [
         {
           "date": "2026-10-23",
@@ -1395,10 +1409,17 @@
         },
         {
           "date": "2026-10-25",
-          "shows": 685,
-          "clicks": 4,
-          "spent": 122.98,
-          "results": 0
+          "shows": 4862,
+          "clicks": 14,
+          "spent": 700.0,
+          "results": 1
+        },
+        {
+          "date": "2026-10-26",
+          "shows": 1222,
+          "clicks": 2,
+          "spent": 130.48,
+          "results": 1
         }
       ]
     }
